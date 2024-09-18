@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 4365427,
+    "title": "Уэнсдэй",
+    "rating": 7.962,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/ccdfa38a-d466-4361-93fa-de16df4bb837/orig",
+    "position": 250
+  },
+  {
+    "id": 693969,
+    "title": "Ветер крепчает",
+    "rating": 8.01,
+    "year": 2013,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/3c9f202b-f25f-4d64-a088-b67d49477de2/orig",
+    "position": 250
+  },
+  {
+    "id": 1008339,
+    "title": "Троцкий",
+    "rating": 7.647,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/5ea197ce-77a6-4640-9044-be2899360e8d/orig",
+    "position": 249
+  },
+  {
+    "id": 880,
+    "title": "Чего хотят женщины",
+    "rating": 7.762,
+    "year": 2000,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/f6142ae4-e271-4709-97c3-cc60a13be1b1/orig",
+    "position": 249
+  },
+  {
+    "id": 891611,
+    "title": "В пустыне смерти",
+    "rating": 7.631,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/1f65fc0d-26be-4530-9894-0a38be47a13e/orig",
+    "position": 248
+  },
+  {
+    "id": 645118,
+    "title": "Головоломка",
+    "rating": 8.077,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/fe96f444-f022-4d14-a40f-7c1f35cc6ab8/orig",
+    "position": 248
+  },
+  {
+    "id": 764487,
+    "title": "Прощай, любимая...",
+    "rating": 7.892,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/653cd2fd-32f0-4247-af5b-1029426d31b5/orig",
+    "position": 246
+  },
+  {
+    "id": 1379545,
+    "title": "Звездный путь: Странные новые миры",
+    "rating": 7.842,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/79eceb26-daa3-4592-b4e8-1e3fff150681/orig",
+    "position": 245
+  },
+  {
+    "id": 4920181,
+    "title": "Хоккейные папы",
+    "rating": 8.306,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10809116/1e4ec3e9-97e0-492e-a79c-c037c10ae07a/orig",
+    "position": 244
+  },
+  {
+    "id": 4295380,
+    "title": "Убийства в одном здании",
+    "rating": 7.606,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/79669804-50c4-44fe-8b7e-6b4b580894d0/orig",
+    "position": 244
+  },
+  {
+    "id": 507,
+    "title": "Терминатор",
+    "rating": 7.98,
+    "year": 1984,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/537869cd-5fb8-4993-af4c-c5f6a30e61ba/orig",
+    "position": 244
+  },
+  {
+    "id": 4476885,
+    "title": "Извне",
+    "rating": 7.631,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/838ca5a2-48d7-4b32-a39a-bc723ccc88ec/orig",
+    "position": 243
+  },
+  {
+    "id": 589167,
+    "title": "Американская история ужасов",
+    "rating": 7.919,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/fec29074-23fa-4bae-9280-56830630fae0/orig",
+    "position": 243
+  },
+  {
+    "id": 1111975,
+    "title": "Богомол",
+    "rating": 7.697,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/afcd5a19-67e7-4df8-a8bb-ee8e8b4b08ff/orig",
+    "position": 242
+  },
+  {
+    "id": 4673107,
+    "title": "Падение дома Ашеров",
+    "rating": 7.493,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/b6ece553-7a55-4b5b-9f0e-3e0bdd57a0f3/orig",
+    "position": 241
+  },
+  {
+    "id": 418,
+    "title": "Цельнометаллическая оболочка",
+    "rating": 8.015,
+    "year": 1987,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/63ae09b0-12c7-4ca6-996a-1a9435cb8cfc/orig",
+    "position": 241
+  },
+  {
+    "id": 45314,
+    "title": "Жестокий романс",
+    "rating": 8.141,
+    "year": 1984,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/92e0ce01-04c8-4aa5-92ab-a4a49274d58d/orig",
+    "position": 240
+  },
+  {
+    "id": 820638,
+    "title": "Мажор",
+    "rating": 8.206,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/e0afea1f-6e8e-4c9a-aa63-a31ebd3857d0/orig",
+    "position": 240
+  },
+  {
+    "id": 47015,
+    "title": "Убить Билла 2",
+    "rating": 7.606,
+    "year": 2004,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/2f8295c3-cc9f-43cf-8dfe-13616c3eaa5e/orig",
+    "position": 240
+  },
+  {
+    "id": 5275429,
+    "title": "Лёд 3",
+    "rating": 8.201,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/5d4e5068-4902-4dd3-a318-c13272de7134/orig",
+    "position": 239
+  },
+  {
+    "id": 1337642,
+    "title": "Вокруг света за 80 дней",
+    "rating": 7.86,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/cefc0812-8400-4e1e-9a04-3bdd0f74981a/orig",
+    "position": 239
+  },
+  {
+    "id": 45822,
+    "title": "Вокзал для двоих",
+    "rating": 8.056,
+    "year": 1982,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/f2f767fd-3fd1-4319-a95a-902fcd23963d/orig",
+    "position": 239
+  },
+  {
+    "id": 673871,
+    "title": "Защищая Джейкоба",
+    "rating": 7.541,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/930ddab2-14a4-4d23-ae9c-0b9b5195dd42/orig",
+    "position": 239
+  },
+  {
+    "id": 48356,
+    "title": "Гарри Поттер и Орден Феникса",
+    "rating": 7.837,
+    "year": 2007,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/1c8e7019-20c6-4bfb-ad17-6b7746ca5147/orig",
+    "position": 239
+  },
+  {
+    "id": 4518018,
+    "title": "И снова здравствуйте!",
+    "rating": 7.835,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/1b31057f-1a8f-48d7-9afd-38e92d952a92/orig",
+    "position": 238
+  },
+  {
+    "id": 196604,
+    "title": "Нефть",
+    "rating": 7.836,
+    "year": 2007,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/7b79e1d9-c5e1-4386-a5a6-3f84d9bfb891/orig",
+    "position": 238
+  },
+  {
+    "id": 439,
+    "title": "Город бога",
+    "rating": 8.018,
+    "year": 2002,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/253edce8-cf8c-4045-a40b-81fc19374b00/orig",
+    "position": 237
+  },
+  {
+    "id": 1047446,
+    "title": "Вокально—криминальный ансамбль",
+    "rating": 7.939,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/e5f03ea7-bc18-4c9d-ac12-af9fca1e50e6/orig",
+    "position": 236
+  },
+  {
+    "id": 959606,
+    "title": "Работа без авторства",
+    "rating": 8.057,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/5884c004-d733-418e-8e94-d50759eac02e/orig",
+    "position": 236
+  },
+  {
+    "id": 843650,
+    "title": "Мстители: Финал",
+    "rating": 7.869,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/ae22f153-9715-41bb-adb4-f648b3e16092/orig",
+    "position": 236
+  },
+  {
+    "id": 968733,
+    "title": "Спящие",
+    "rating": 7.799,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/23381154-4d33-4c84-bea7-bc3988386292/orig",
+    "position": 235
+  },
+  {
+    "id": 891337,
+    "title": "11.22.63",
+    "rating": 7.852,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/6f23557b-e8bc-4abf-a55c-1cfd99aa8ba8/orig",
+    "position": 235
+  },
+  {
+    "id": 1322676,
+    "title": "Властелины воздуха",
+    "rating": 7.622,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/57764a03-d980-497c-8c8e-ce0a3bb4eb00/orig",
+    "position": 233
+  },
+  {
+    "id": 335,
+    "title": "Мементо",
+    "rating": 7.876,
+    "year": 2000,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/3fabdd0d-9b34-4cbf-a3b0-eb8448ccc122/orig",
+    "position": 232
+  },
+  {
+    "id": 64187,
+    "title": "Пила: Игра на выживание",
+    "rating": 7.83,
+    "year": 2004,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/10c416d0-8669-4fd4-8288-971111519931/orig",
+    "position": 232
+  },
+  {
+    "id": 4936400,
+    "title": "СМЕРШ. Продолжение",
+    "rating": 7.943,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/03a771a2-7283-4038-acf0-ddf0b9ffeae7/orig",
+    "position": 230
+  },
+  {
+    "id": 8161,
+    "title": "Джуманджи",
+    "rating": 7.883,
+    "year": 1995,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/2575da3f-a4f1-4626-9024-8476f916c4e7/orig",
+    "position": 230
+  },
+  {
+    "id": 4871,
+    "title": "Запах женщины",
+    "rating": 8.446,
+    "year": 1992,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/378890fe-a68d-45ba-a87e-9108ae0e4574/orig",
+    "position": 230
+  },
+  {
+    "id": 910353,
+    "title": "Выстрел в пустоту",
+    "rating": 7.645,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/8d7d0aec-c600-4d8e-9765-15e2b4b4ccfc/orig",
+    "position": 229
+  },
+  {
+    "id": 408876,
+    "title": "Хоббит: Пустошь Смауга",
+    "rating": 8.028,
+    "year": 2013,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/dd195023-81e0-42bc-9b33-e86ac8abf30e/orig",
+    "position": 229
+  },
+  {
+    "id": 77203,
+    "title": "Покровские ворота",
+    "rating": 8.264,
+    "year": 1982,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/62aa468b-fada-44c5-b7e6-9748a552f391/orig",
+    "position": 228
+  },
+  {
+    "id": 1359038,
+    "title": "Спроси Марту",
+    "rating": 7.944,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/0579635f-94ec-4656-84c9-2270fbadf8af/orig",
+    "position": 227
+  },
+  {
+    "id": 508161,
+    "title": "Ходячие мертвецы",
+    "rating": 7.974,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/b201e596-2429-42da-81d0-7e0736f4c588/orig",
+    "position": 227
+  },
+  {
+    "id": 5304281,
+    "title": "Арт и Факт",
+    "rating": 8.064,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/51826afa-a9bd-445e-b9a3-4e023995551e/orig",
+    "position": 226
+  },
+  {
+    "id": 485261,
+    "title": "Убойные каникулы",
+    "rating": 7.668,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/cf50ae52-c59d-4e24-988a-f64794ee800a/orig",
+    "position": 226
+  },
+  {
+    "id": 4852097,
+    "title": "Презумпция невиновности",
+    "rating": 7.552,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10592371/476ea665-5ef7-4e54-b0d2-500b10591406/orig",
+    "position": 226
+  },
+  {
+    "id": 733419,
+    "title": "Однажды ночью",
+    "rating": 7.829,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/ee635ca6-14e1-4eff-8c6a-ddb914a4b2e8/orig",
+    "position": 225
+  },
+  {
+    "id": 5235023,
+    "title": "Совершенно другой",
+    "rating": 8.046,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/24cbddf6-6ee5-4c56-a0a6-b2964f750889/orig",
+    "position": 224
+  },
+  {
+    "id": 4484,
+    "title": "Мумия",
+    "rating": 7.829,
+    "year": 1999,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7075696b-2399-4038-9f89-283921eea7ef/orig",
+    "position": 224
+  },
+  {
+    "id": 929776,
+    "title": "Преступление",
+    "rating": 7.88,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/738d8208-e927-415d-b647-6789b1be45da/orig",
+    "position": 223
+  },
+  {
+    "id": 8240,
+    "title": "Навсикая из долины ветров",
+    "rating": 8.195,
+    "year": 1984,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10703959/e6c73091-2349-406d-8fec-1b3d1ad94a0e/orig",
+    "position": 223
+  },
+  {
+    "id": 1200189,
+    "title": "Засланец из космоса",
+    "rating": 8.063,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/5d8ebac6-06c6-4d88-9fb5-ea6c3ec8a7de/orig",
+    "position": 223
+  },
+  {
+    "id": 463694,
+    "title": "Землетрясение",
+    "rating": 8.009,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/42571afc-b3f9-4f95-915d-00acd154e6b4/orig",
+    "position": 222
+  },
+  {
+    "id": 996399,
+    "title": "Лучше, чем люди",
+    "rating": 7.804,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/ca442652-0a2d-4f62-b4a3-19a5fd894fe2/orig",
+    "position": 222
+  },
+  {
+    "id": 394,
+    "title": "Бешеные псы",
+    "rating": 8.115,
+    "year": 1991,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/b1add366-9e49-4ad8-905a-46ca23da8adc/orig",
+    "position": 222
+  },
+  {
+    "id": 8366,
+    "title": "Нечто",
+    "rating": 7.927,
+    "year": 1982,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/01d5bf88-75de-4686-a322-14a55fca991c/orig",
+    "position": 222
+  },
+  {
+    "id": 4527915,
+    "title": "Сёстры",
+    "rating": 7.948,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/19e55128-010d-4b8b-9c68-1afa8c761848/orig",
+    "position": 221
+  },
+  {
+    "id": 43970,
+    "title": "Сталкер",
+    "rating": 8.089,
+    "year": 1979,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/811f668e-e54d-468c-9279-d45599e35b35/orig",
+    "position": 221
+  },
+  {
+    "id": 1392743,
+    "title": "Постучись в мою дверь",
+    "rating": 8.115,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/389c3708-9557-44ea-9579-42b42e0570bd/orig",
+    "position": 220
+  },
+  {
+    "id": 1108690,
+    "title": "Перевал Дятлова",
+    "rating": 7.733,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/042d01a1-9f33-403a-8259-464bacfdc30a/orig",
+    "position": 220
+  },
+  {
+    "id": 4918926,
+    "title": "Объяснялкины",
+    "rating": 8.134,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/3dd0a3b5-67c3-4860-8c0c-ddf02364b2f9/orig",
+    "position": 219
+  },
+  {
+    "id": 664,
+    "title": "Семьянин",
+    "rating": 7.831,
+    "year": 2000,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/b19fcaf1-a71d-4685-9ec9-5f049a112425/orig",
+    "position": 219
+  },
+  {
+    "id": 1147693,
+    "title": "Сексуальное просвещение",
+    "rating": 8.041,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/c0f84651-ac46-4861-a859-63041b9798dc/orig",
+    "position": 219
+  },
+  {
+    "id": 468102,
+    "title": "О чём говорят мужчины",
+    "rating": 7.821,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/414abc8f-d0dc-432e-a991-19c39af8301d/orig",
+    "position": 218
+  },
+  {
+    "id": 43869,
+    "title": "Служебный роман",
+    "rating": 8.329,
+    "year": 1977,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/fd4e75bb-a6fe-46ef-86cd-0f470334fcbd/orig",
+    "position": 218
+  },
+  {
+    "id": 5030715,
+    "title": "Капельник",
+    "rating": 7.873,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/ed750318-a031-4bd1-a742-cf52ef7bcb4c/orig",
+    "position": 218
+  },
+  {
+    "id": 1048334,
+    "title": "Джокер",
+    "rating": 7.99,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/84934543-5991-4c93-97eb-beb6186a3ad7/orig",
+    "position": 217
+  },
+  {
+    "id": 7724,
+    "title": "Летят журавли",
+    "rating": 8.346,
+    "year": 1957,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/93397e62-0402-4cf9-9b4a-e462fea91963/orig",
+    "position": 216
+  },
+  {
+    "id": 5249042,
+    "title": "Папины дочки. Новые",
+    "rating": 8.293,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/7d26d955-bc98-4731-8ec1-277359f9afa6/orig",
+    "position": 216
+  },
+  {
+    "id": 4491001,
+    "title": "ЮЗЗЗ",
+    "rating": 7.866,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/de250aef-e809-4eb4-86a6-3aa0a6c29714/orig",
+    "position": 216
+  },
+  {
+    "id": 102124,
+    "title": "Пираты Карибского моря: На краю света",
+    "rating": 8.063,
+    "year": 2007,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/dfa69f9c-3c71-436f-9b1d-797cd562f04a/orig",
+    "position": 216
+  },
+  {
+    "id": 690738,
+    "title": "Легенды о Круге",
+    "rating": 8.054,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/00fdb099-6e18-48c7-90d0-b43eadd8a4e9/orig",
+    "position": 215
+  },
+  {
+    "id": 495518,
+    "title": "Один день",
+    "rating": 7.807,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/d7aa21db-2102-4b8b-81f0-f7ec4e0e9ec9/orig",
+    "position": 214
+  },
+  {
+    "id": 885317,
+    "title": "Ученик чудовища",
+    "rating": 8.208,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10592371/de33243b-a7c1-48a7-b7aa-0358acd1907b/orig",
+    "position": 213
+  },
+  {
+    "id": 780306,
+    "title": "Великая",
+    "rating": 7.992,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/44696f70-49f3-4c49-a361-eaed8d3bffd3/orig",
+    "position": 213
+  },
+  {
+    "id": 879160,
+    "title": "Парад смерти",
+    "rating": 8.003,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/3754ae75-da25-41ec-bb70-aaaa4d3fc06f/orig",
+    "position": 212
+  },
+  {
+    "id": 4695,
+    "title": "Лицо со шрамом",
+    "rating": 8.171,
+    "year": 1983,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/1303d9e8-8fdb-4290-a42f-0491a2910a83/orig",
+    "position": 212
+  },
+  {
+    "id": 276762,
+    "title": "Гарри Поттер и Дары Смерти: Часть I",
+    "rating": 7.901,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/66852969-2d21-45de-bae1-62ec7760f756/orig",
+    "position": 212
+  },
+  {
+    "id": 77381,
+    "title": "Бандитский Петербург: Барон",
+    "rating": 7.65,
+    "year": 2000,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/226c7068-4825-408b-9123-4a9e29abaaeb/orig",
+    "position": 211
+  },
+  {
+    "id": 7653,
+    "title": "Особенности национальной охоты",
+    "rating": 7.81,
+    "year": 1995,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/95329b41-326d-4e1a-a2d3-8f2298a08743/orig",
+    "position": 211
+  },
+  {
+    "id": 1177527,
+    "title": "Тень за спиной",
+    "rating": 7.888,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/a80392b6-b22d-478e-a3cb-f7dbf502b75e/orig",
+    "position": 210
+  },
+  {
+    "id": 2000102,
+    "title": "Киберпанк: Бегущие по краю",
+    "rating": 7.874,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/203e9a72-242f-4424-a897-1a01d0fc3663/orig",
+    "position": 210
+  },
+  {
+    "id": 5167,
+    "title": "Эффект бабочки",
+    "rating": 8.168,
+    "year": 2003,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/9cc3a3d5-d6fe-4f41-a22f-05cdff66e968/orig",
+    "position": 210
+  },
+  {
+    "id": 1394680,
+    "title": "Сцены из супружеской жизни",
+    "rating": 7.954,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/57d58a85-bf30-4524-af5e-269833d4a9bc/orig",
+    "position": 209
+  },
+  {
+    "id": 2494,
+    "title": "Казино",
+    "rating": 8.13,
+    "year": 1995,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/b648db4a-60c5-4cd8-ab8a-4f79d5609cd5/orig",
+    "position": 209
+  },
+  {
+    "id": 715196,
+    "title": "Крапленый",
+    "rating": 7.974,
+    "year": 2012,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/824f1370-11ac-4637-b287-65284db08b2a/orig",
+    "position": 207
+  },
+  {
+    "id": 46368,
+    "title": "Не может быть!",
+    "rating": 8.209,
+    "year": 1975,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/62f8ff65-2a90-49c1-aeda-c7fa511ff409/orig",
+    "position": 207
+  },
+  {
+    "id": 4786341,
+    "title": "Адский рай",
+    "rating": 7.906,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/bef352e4-b675-4127-8735-89df3e97432c/orig",
+    "position": 207
+  },
+  {
+    "id": 1991,
+    "title": "Привидение",
+    "rating": 8.178,
+    "year": 1990,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/2526910a-6de3-4a8c-86c1-ca90674450c7/orig",
+    "position": 207
+  },
+  {
+    "id": 1402928,
+    "title": "Крюк",
+    "rating": 8.014,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/b06d5fb5-0e07-47af-b484-42a6bdda6dd5/orig",
+    "position": 206
+  },
+  {
+    "id": 1338345,
+    "title": "Оффлайн",
+    "rating": 7.862,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/4e894517-cf85-4a6a-97c3-f4c5d18001d0/orig",
+    "position": 205
+  },
+  {
+    "id": 571896,
+    "title": "Собачья жизнь",
+    "rating": 8.074,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/9ecb0974-ad01-4fde-9067-c6d147b880f4/orig",
+    "position": 205
+  },
+  {
+    "id": 474374,
+    "title": "Тульский Токарев",
+    "rating": 7.842,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/a9af5263-8bf2-434b-af24-871967deb4e3/orig",
+    "position": 204
+  },
+  {
+    "id": 959365,
+    "title": "Невидимый гость",
+    "rating": 7.856,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/611a2f49-49fb-458e-b98a-fb46672f1a24/orig",
+    "position": 204
+  },
+  {
+    "id": 4481731,
+    "title": "Медведь",
+    "rating": 7.748,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/bf9b5785-4de7-468b-b020-396161757a82/orig",
+    "position": 204
+  },
+  {
+    "id": 1011528,
+    "title": "Хороший доктор",
+    "rating": 8.003,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/d7ff86be-413f-48aa-ad30-89748bfc85a0/orig",
+    "position": 203
+  },
+  {
+    "id": 1253157,
+    "title": "Ваша честь",
+    "rating": 7.716,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/06fb8c78-f2ed-4465-acb3-72e78d7da5d4/orig",
+    "position": 202
+  },
+  {
+    "id": 61237,
+    "title": "Железный человек",
+    "rating": 7.968,
+    "year": 2008,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/c8e2f069-15f1-4803-95c0-aba858fec360/orig",
+    "position": 201
+  },
+  {
+    "id": 104938,
+    "title": "В погоне за счастьем",
+    "rating": 8.261,
+    "year": 2006,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/88d2a9f4-8bc7-451a-b6ef-9eb8bef2b245/orig",
+    "position": 201
+  },
+  {
+    "id": 614026,
+    "title": "Остров ненужных людей",
+    "rating": 7.695,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/3b0c7270-24c6-4c08-9539-694b6f682271/orig",
+    "position": 200
+  },
+  {
+    "id": 309408,
+    "title": "День выборов",
+    "rating": 7.924,
+    "year": 2007,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/b824eb2a-1f6b-4149-852c-8360358349cd/orig",
+    "position": 200
+  },
+  {
+    "id": 5059049,
+    "title": "Телохранители",
+    "rating": 8.021,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/faceefdf-5406-41da-a268-27f3d64697f8/orig",
+    "position": 199
+  },
+  {
+    "id": 976636,
+    "title": "Большая игра",
+    "rating": 7.813,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/eabf413e-b465-4857-a7b0-9c54c260778f/orig",
+    "position": 199
+  },
+  {
+    "id": 932068,
+    "title": "Табу",
+    "rating": 7.805,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/6ea73f7c-5075-4d33-8de9-b273025887e2/orig",
+    "position": 198
+  },
+  {
+    "id": 6144,
+    "title": "Реальная любовь",
+    "rating": 7.931,
+    "year": 2003,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/6efae789-2a6f-4d0a-935c-ea4bf30585df/orig",
+    "position": 198
+  },
+  {
+    "id": 8221,
+    "title": "Мой сосед Тоторо",
+    "rating": 8.248,
+    "year": 1988,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/029f472e-bf4d-4e00-b7c0-f45c08cf8b82/orig",
+    "position": 198
+  },
+  {
+    "id": 1301710,
+    "title": "Игра в кальмара",
+    "rating": 7.578,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/1073b002-96de-49ae-a432-1da460f6890c/orig",
+    "position": 198
+  },
+  {
+    "id": 1323569,
+    "title": "Спросите медсестру",
+    "rating": 7.992,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/995ca545-ba77-4073-987f-c120ed4d45c0/orig",
+    "position": 197
+  },
+  {
+    "id": 1134493,
+    "title": "Звук свободы",
+    "rating": 8.089,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/4fb19ff4-34f2-42de-be25-521b1fcdc2fe/orig",
+    "position": 197
+  },
+  {
+    "id": 4477341,
+    "title": "Грызня",
+    "rating": 7.756,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/4c5bcebc-2c2c-4719-8e0b-b26bc08118bf/orig",
+    "position": 197
+  },
+  {
+    "id": 505851,
+    "title": "Грань будущего",
+    "rating": 7.942,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/59acece0-e900-4914-aa8a-ec5f42026a64/orig",
+    "position": 196
+  },
+  {
+    "id": 1421587,
+    "title": "Миротворец",
+    "rating": 8.001,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/cbbe40e2-d2ca-4f32-9b18-dd5402f9c468/orig",
+    "position": 195
+  },
+  {
+    "id": 1443811,
+    "title": "Зона комфорта",
+    "rating": 7.7,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/77d77d1f-29a1-45f0-8e6c-e9ba355650ff/orig",
+    "position": 195
+  },
+  {
+    "id": 371,
+    "title": "Спасти рядового Райана",
+    "rating": 8.184,
+    "year": 1998,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/9ebff88a-fdd1-4a90-b3cf-7fb5bd256ed7/orig",
+    "position": 195
+  },
+  {
+    "id": 958468,
+    "title": "Гостиница «Россия»",
+    "rating": 7.961,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/f97ffa68-3570-4ecb-aa3f-e025b1bfd60a/orig",
+    "position": 194
+  },
+  {
+    "id": 89514,
+    "title": "Рататуй",
+    "rating": 8.049,
+    "year": 2007,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/894f7e3c-cedf-4e5c-946a-9021efdf17dd/orig",
+    "position": 194
+  },
+  {
+    "id": 614015,
+    "title": "Дело гастронома №1",
+    "rating": 8.089,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/68d84cef-f57a-45fa-9a3f-2c9d8784d614/orig",
+    "position": 191
+  },
+  {
+    "id": 689066,
+    "title": "Стражи Галактики",
+    "rating": 7.853,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/2e6ab20b-7cf1-49e7-b465-bd5a71c13fa3/orig",
+    "position": 191
+  },
+  {
+    "id": 1112966,
+    "title": "Что случилось с секретарём Ким?",
+    "rating": 8.136,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/e5d1453a-5b2a-41b6-8b83-15c3c214ba4e/orig",
+    "position": 190
+  },
+  {
+    "id": 944098,
+    "title": "Три билборда на границе Эббинга, Миссури",
+    "rating": 8.14,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/9a78d4ef-5b3b-49e5-9390-735167d01fdf/orig",
+    "position": 190
+  },
+  {
+    "id": 4996,
+    "title": "Общество мертвых поэтов",
+    "rating": 8.242,
+    "year": 1989,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/66058481-9b77-4b51-9d4b-65db5cd796d2/orig",
+    "position": 189
+  },
+  {
+    "id": 252641,
+    "title": "Хранители",
+    "rating": 7.679,
+    "year": 2009,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/19544d88-7b50-4b3b-986e-f29c26e025d0/orig",
+    "position": 189
+  },
+  {
+    "id": 1189907,
+    "title": "Перевал",
+    "rating": 7.878,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/5befaf58-677a-4bf4-9d1e-fc6b624826a6/orig",
+    "position": 188
+  },
+  {
+    "id": 527,
+    "title": "День сурка",
+    "rating": 8.139,
+    "year": 1993,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/ed4f90cb-188b-4cac-a41a-c175ff9b9e48/orig",
+    "position": 188
+  },
+  {
+    "id": 1306638,
+    "title": "Мир! Дружба! Жвачка!",
+    "rating": 7.925,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/47eebe97-9498-4ec9-8e52-3f6330424ede/orig",
+    "position": 188
+  },
+  {
+    "id": 1134613,
+    "title": "Уловка-22",
+    "rating": 7.887,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/b7a36ba8-f43d-4033-a584-505fdf4e81b3/orig",
+    "position": 187
+  },
+  {
+    "id": 840821,
+    "title": "Кот в сапогах 2: Последнее желание",
+    "rating": 8.094,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/19b2a831-d81b-4364-a82a-dc6ca779023f/orig",
+    "position": 187
+  },
+  {
+    "id": 4403001,
+    "title": "Жена путешественника во времени",
+    "rating": 8.108,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/8746660b-d466-4636-bf8a-00bfc6cc6b8f/orig",
+    "position": 186
+  },
+  {
+    "id": 1008439,
+    "title": "Силачка До Бон Сун",
+    "rating": 8.192,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/e39b9f22-e691-4e65-862e-aa2e266d3879/orig",
+    "position": 185
+  },
+  {
+    "id": 841046,
+    "title": "По законам военного времени",
+    "rating": 8.049,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10809116/9b6441a2-9bb1-4053-b74f-93dc5fe59d9d/orig",
+    "position": 184
+  },
+  {
+    "id": 382,
+    "title": "Американская история X",
+    "rating": 8.296,
+    "year": 1998,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e0eb0512-5180-41d4-8788-f22d77b79501/orig",
+    "position": 184
+  },
+  {
+    "id": 102198,
+    "title": "Иллюзионист",
+    "rating": 8.011,
+    "year": 2005,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/bdb9b0c6-f9a4-4c17-a74f-91c11359057a/orig",
+    "position": 183
+  },
+  {
+    "id": 470553,
+    "title": "Прислуга",
+    "rating": 8.241,
+    "year": 2011,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/f1c4d9cb-2120-487c-a84a-cbb8e5c462c0/orig",
+    "position": 183
+  },
+  {
+    "id": 1209850,
+    "title": "Андор",
+    "rating": 8.078,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/487e1e3f-41fc-4dad-a715-4174b02c0d25/orig",
+    "position": 182
+  },
+  {
+    "id": 351,
+    "title": "Красота по-американски",
+    "rating": 7.989,
+    "year": 1999,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/36f029a1-497d-45cd-b9fa-a152712a899c/orig",
+    "position": 182
+  },
+  {
+    "id": 4497065,
+    "title": "Струны",
+    "rating": 8.046,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10809116/c798de16-9842-46b4-a455-67942f050966/orig",
+    "position": 181
+  },
+  {
+    "id": 1278808,
+    "title": "Бриджертоны",
+    "rating": 7.701,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10703859/ad964b8b-7dcc-464b-a6aa-3868b6d32f16/orig",
+    "position": 180
+  },
+  {
+    "id": 2045005,
+    "title": "Однажды разрушение постучалось в мою дверь",
+    "rating": 8.207,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/c1b2e86b-9338-45fe-90ca-d3c5fd6ae9d6/orig",
+    "position": 179
+  },
+  {
+    "id": 5024113,
+    "title": "Тёмная материя",
+    "rating": 7.68,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/753ee734-4707-4e47-9a60-4f24822cf44d/orig",
+    "position": 179
+  },
+  {
+    "id": 1167154,
+    "title": "Уэйн",
+    "rating": 8.139,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/cb00f0e1-0dad-4916-8104-9966540aa536/orig",
+    "position": 179
+  },
+  {
+    "id": 1049069,
+    "title": "Доктор Преображенский",
+    "rating": 7.96,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/8cac3972-3122-4e7b-9a15-407b1f714a67/orig",
+    "position": 178
+  },
+  {
+    "id": 45660,
+    "title": "Вам и не снилось...",
+    "rating": 8.265,
+    "year": 1980,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0d59cea8-7f92-4d23-90a1-79d4485524fd/orig",
+    "position": 178
+  },
+  {
+    "id": 694633,
+    "title": "Хоббит: Битва пяти воинств",
+    "rating": 7.897,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/ee1276c4-6e67-45cd-94db-8bd47bb21da4/orig",
+    "position": 178
+  },
+  {
+    "id": 4550911,
+    "title": "Плохой и сумасшедший",
+    "rating": 8.217,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/baefb6ac-1751-4e55-ba55-fdf5b48376a8/orig",
+    "position": 177
+  },
+  {
+    "id": 7466,
+    "title": "Бронкская история",
+    "rating": 8.05,
+    "year": 1993,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/a97b1c64-8726-4ec8-be0e-87a12ef717b8/orig",
+    "position": 177
+  },
+  {
+    "id": 1044280,
+    "title": "Стражи Галактики. Часть 3",
+    "rating": 8.094,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/7c39a0ca-7319-4442-a412-d3127523f6c0/orig",
+    "position": 177
+  },
+  {
+    "id": 1228049,
+    "title": "Отель «Дель Луна»",
+    "rating": 8.151,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/90a62c55-e688-4c31-92aa-628a648c64b2/orig",
+    "position": 176
+  },
+  {
+    "id": 596125,
+    "title": "Гонка",
+    "rating": 8.1,
+    "year": 2013,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/2bf5ff35-e2d6-4e3e-8b02-c42526187d4f/orig",
+    "position": 176
+  },
+  {
+    "id": 455194,
+    "title": "Пленницы",
+    "rating": 7.786,
+    "year": 2013,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/c7debfa6-6264-4352-a996-3676906cce58/orig",
+    "position": 176
+  },
+  {
+    "id": 682255,
+    "title": "Викинги",
+    "rating": 8.158,
+    "year": 2013,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/53e53a08-3f1d-4169-a987-e00c25cd1622/orig",
+    "position": 176
+  },
+  {
+    "id": 519,
+    "title": "Человек дождя",
+    "rating": 8.241,
+    "year": 1988,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/74259ac0-8003-4282-b0c9-ffe915ccd6fb/orig",
+    "position": 176
+  },
+  {
+    "id": 77283,
+    "title": "Тот самый Мюнхгаузен",
+    "rating": 8.339,
+    "year": 1979,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/15c9a24e-8f3b-4a09-9440-5d5c16d0ce7d/orig",
+    "position": 175
+  },
+  {
+    "id": 1044279,
+    "title": "Призрак дома на холме",
+    "rating": 7.958,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/378661fa-23e1-49a5-b350-53f37d6436b4/orig",
+    "position": 175
+  },
+  {
+    "id": 386,
+    "title": "Чужой",
+    "rating": 8.077,
+    "year": 1979,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/14af6019-b2fe-4e1e-bee5-334d9e472d94/orig",
+    "position": 175
+  },
+  {
+    "id": 1108571,
+    "title": "Приключения Реми",
+    "rating": 8.296,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/3bb8ef0f-0230-4eeb-acb0-e2b44329de37/orig",
+    "position": 174
+  },
+  {
+    "id": 4668048,
+    "title": "Бизон: Дело манекенщицы",
+    "rating": 8.056,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/b7eeea45-6d01-4924-aabb-12b5dd9a715d/orig",
+    "position": 174
+  },
+  {
+    "id": 5492,
+    "title": "Вечное сияние чистого разума",
+    "rating": 8.042,
+    "year": 2004,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/6cd71c8d-c906-4430-83a2-60f31c345954/orig",
+    "position": 174
+  },
+  {
+    "id": 354,
+    "title": "Апокалипсис сегодня",
+    "rating": 8.145,
+    "year": 1979,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/a0d6537e-72ee-47f2-b51f-ef776b1b9cdf/orig",
+    "position": 173
+  },
+  {
+    "id": 5058451,
+    "title": "Такси под прикрытием",
+    "rating": 8.024,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/811b6f19-6e8b-4ab8-a8ac-1dd4adb2de9b/orig",
+    "position": 173
+  },
+  {
+    "id": 939411,
+    "title": "Мотылёк",
+    "rating": 7.808,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/8e08470b-0241-47f4-9ee6-32406da24df5/orig",
+    "position": 172
+  },
+  {
+    "id": 994622,
+    "title": "Последняя статья журналиста",
+    "rating": 7.947,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/c33ee6fd-47a2-49c1-bdde-ce9dc9dedd36/orig",
+    "position": 170
+  },
+  {
+    "id": 1209697,
+    "title": "Сделано в Италии",
+    "rating": 8.209,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a038037c-ca6f-47c7-b914-8ae56f0bc824/orig",
+    "position": 169
+  },
+  {
+    "id": 43602,
+    "title": "Самая обаятельная и привлекательная",
+    "rating": 8.175,
+    "year": 1985,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/ed461ca5-1a48-42b3-8c09-f0e021c0b0f4/orig",
+    "position": 169
+  },
+  {
+    "id": 89515,
+    "title": "Гарри Поттер и Принц-полукровка",
+    "rating": 7.83,
+    "year": 2009,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/3b4b90e6-0b62-410c-a583-6977df318fbe/orig",
+    "position": 169
+  },
+  {
+    "id": 12198,
+    "title": "Игра",
+    "rating": 8.256,
+    "year": 1997,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/d753a460-0ece-4007-84d9-02d7a2968829/orig",
+    "position": 169
+  },
+  {
+    "id": 1388641,
+    "title": "Нежность",
+    "rating": 8.136,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10592371/b89bd7ec-f790-488f-aec9-6bf917cffdfe/orig",
+    "position": 168
+  },
+  {
+    "id": 683999,
+    "title": "Отель «Гранд Будапешт»",
+    "rating": 7.941,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/ea08a062-81a9-46e9-a475-e49388216eea/orig",
+    "position": 168
+  },
+  {
+    "id": 336,
+    "title": "Пролетая над гнездом кукушки",
+    "rating": 8.514,
+    "year": 1975,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/3521be40-0419-4864-9d62-461cc7959f2c/orig",
+    "position": 168
+  },
+  {
+    "id": 784529,
+    "title": "Что знает Оливия",
+    "rating": 8.007,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/615b0f60-75a4-41c6-8002-5c07b11808ff/orig",
+    "position": 166
+  },
+  {
+    "id": 7660,
+    "title": "Холодное лето пятьдесят третьего...",
+    "rating": 8.184,
+    "year": 1987,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/845206fa-315f-4955-8246-cd2ef3301dce/orig",
+    "position": 166
+  },
+  {
+    "id": 803363,
+    "title": "Босх",
+    "rating": 7.898,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10703959/76f963f6-9175-4456-8ed3-089f45c1ef10/orig",
+    "position": 166
+  },
+  {
+    "id": 5378574,
+    "title": "Мошенники",
+    "rating": 8.021,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/db7c99f9-43b4-4eaa-9b54-e498fd264393/orig",
+    "position": 165
+  },
+  {
+    "id": 45028,
+    "title": "Курьер",
+    "rating": 8.042,
+    "year": 1986,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/b61f7025-8f50-4d74-83d5-fc14f93952d9/orig",
+    "position": 165
+  },
+  {
+    "id": 1112514,
+    "title": "Харли Квинн",
+    "rating": 8.199,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/adc01ce1-c270-4962-be68-ef335ffb36b3/orig",
+    "position": 164
+  },
+  {
+    "id": 1045553,
+    "title": "Озарк",
+    "rating": 7.916,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/98f00219-1784-40d0-b76a-cdcdfd71f821/orig",
+    "position": 164
+  },
+  {
+    "id": 5261682,
+    "title": "Самогон",
+    "rating": 8.048,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/22efaac3-8ab9-4a85-ba18-5b364af92566/orig",
+    "position": 162
+  },
+  {
+    "id": 281251,
+    "title": "Мальчик в полосатой пижаме",
+    "rating": 8.186,
+    "year": 2008,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/84be7629-189d-4b13-8b35-fcf010512218/orig",
+    "position": 162
+  },
+  {
+    "id": 1045972,
+    "title": "Жёлтый глаз тигра",
+    "rating": 8.159,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/7e52e160-689d-4c21-b8ce-f229a08efa89/orig",
+    "position": 161
+  },
+  {
+    "id": 437410,
+    "title": "Темный рыцарь: Возрождение легенды",
+    "rating": 8.166,
+    "year": 2012,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/78a50ddd-1712-4bb0-869e-680963c1580e/orig",
+    "position": 161
+  },
+  {
+    "id": 4443734,
+    "title": "Фишер",
+    "rating": 7.888,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10703959/296c6fed-9ac3-46d2-bf4c-a5fdfa0485e2/orig",
+    "position": 160
+  },
+  {
+    "id": 627,
+    "title": "Изгой",
+    "rating": 8.254,
+    "year": 2000,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/249ec6b5-b02a-4a17-a31a-0fb2d03f963e/orig",
+    "position": 160
+  },
+  {
+    "id": 1118138,
+    "title": "Мандалорец",
+    "rating": 8.05,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/57ad896e-6eeb-4242-af4a-bd47c3ad24d1/orig",
+    "position": 159
+  },
+  {
+    "id": 3563,
+    "title": "Трасса 60",
+    "rating": 8.035,
+    "year": 2001,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/8d669692-92f0-402d-83da-7da41eec56f2/orig",
+    "position": 159
+  },
+  {
+    "id": 4707110,
+    "title": "Земля",
+    "rating": 8.312,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/7c3a19ac-e910-47bd-8c20-09e14a5cb50d/orig",
+    "position": 158
+  },
+  {
+    "id": 3707,
+    "title": "Страсти Христовы",
+    "rating": 7.869,
+    "year": 2004,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/1b7bc6cf-055e-43e3-b321-359e7a6db0f5/orig",
+    "position": 158
+  },
+  {
+    "id": 589290,
+    "title": "Бегущий по лезвию 2049",
+    "rating": 7.798,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/33dbf977-208f-448c-8726-d2fafdcced28/orig",
+    "position": 158
+  },
+  {
+    "id": 5056285,
+    "title": "Под кожей",
+    "rating": 8.236,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/37df23d3-c794-43e6-8d4a-755ebf94bebf/orig",
+    "position": 157
+  },
+  {
+    "id": 46066,
+    "title": "Белое солнце пустыни",
+    "rating": 8.106,
+    "year": 1969,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/d048a6d1-16a9-445e-821d-fce1742d6309/orig",
+    "position": 156
+  },
+  {
+    "id": 5019944,
+    "title": "Кибердеревня",
+    "rating": 8.105,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/70c75cf3-f456-4474-a900-9a38c1bb2987/orig",
+    "position": 156
+  },
+  {
+    "id": 4397580,
+    "title": "Чёрная птица",
+    "rating": 7.759,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/36e1dae2-c4df-488c-affd-4f5aa48690b2/orig",
+    "position": 156
+  },
+  {
+    "id": 647671,
+    "title": "Охота",
+    "rating": 7.942,
+    "year": 2012,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/b97af3b9-41b5-4e1d-a59c-051e4e979e80/orig",
+    "position": 155
+  },
+  {
+    "id": 1200027,
+    "title": "Лихач",
+    "rating": 8.216,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/9fcc3643-539f-4632-b171-2793ab4eca74/orig",
+    "position": 154
+  },
+  {
+    "id": 7640,
+    "title": "Двухсотлетний человек",
+    "rating": 8.089,
+    "year": 1999,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/8b171b14-74a3-4880-835b-2b21b8481e9a/orig",
+    "position": 154
+  },
+  {
+    "id": 692861,
+    "title": "Исчезнувшая",
+    "rating": 7.961,
+    "year": 2014,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/cdd30c22-0ff5-4a70-9e9c-6e2ed1820d84/orig",
+    "position": 154
+  },
+  {
+    "id": 4531283,
+    "title": "Абрек",
+    "rating": 8.173,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/5c7a6b10-2b35-4f24-8957-c34683a4b777/orig",
+    "position": 153
+  },
+  {
+    "id": 1191022,
+    "title": "Подольские курсанты",
+    "rating": 8.219,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/de10de1e-aada-4445-9e65-ec764022600a/orig",
+    "position": 153
+  },
+  {
+    "id": 1402701,
+    "title": "Чужой",
+    "rating": 7.975,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/3126e04e-2078-47e0-8733-dd7418bda238/orig",
+    "position": 152
+  },
+  {
+    "id": 893361,
+    "title": "Молодой Папа",
+    "rating": 8.189,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/94503cd8-311f-4921-8f4f-dfb3195ba1fa/orig",
+    "position": 152
+  },
+  {
+    "id": 2717,
+    "title": "Убить Билла",
+    "rating": 7.695,
+    "year": 2003,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/c28ed8ad-54b7-4781-8f42-002d26b39b7f/orig",
+    "position": 152
+  },
+  {
+    "id": 1203039,
+    "title": "Локи",
+    "rating": 7.753,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/8daa730d-5b99-4add-adc9-f623db620735/orig",
+    "position": 152
+  },
+  {
+    "id": 436263,
+    "title": "Брестская крепость",
+    "rating": 8.058,
+    "year": 2010,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/b7f7bf0b-103b-47ed-998d-30e3eb9f2b1c/orig",
+    "position": 151
+  },
+  {
+    "id": 46638,
+    "title": "Мимино",
+    "rating": 8.164,
+    "year": 1977,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/a0a82a7d-4354-4aae-baef-3acbe0c0a487/orig",
+    "position": 150
+  },
+  {
+    "id": 666,
+    "title": "Форсаж",
+    "rating": 7.823,
+    "year": 2001,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/8277905e-aa09-465d-b0de-7c389a42f215/orig",
+    "position": 149
+  },
+  {
+    "id": 4424478,
+    "title": "Переполненная комната",
+    "rating": 7.809,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/505dcc00-65fd-4268-8bf6-46c8c6d073b8/orig",
+    "position": 149
+  },
+  {
+    "id": 1266998,
+    "title": "Алекс Лютый",
+    "rating": 7.978,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486362/8ddc664c-7bfc-4665-94aa-d6c9f399a364/orig",
+    "position": 149
+  },
+  {
+    "id": 518037,
+    "title": "Невозможное",
+    "rating": 7.966,
+    "year": 2012,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/bd3882d7-c0d1-4d67-bc13-a9aa47178d35/orig",
+    "position": 148
+  },
+  {
+    "id": 1435343,
+    "title": "Джентльмены",
+    "rating": 7.783,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/5b0baa32-c83d-454e-9f4e-a4214ee93509/orig",
+    "position": 148
+  },
+  {
+    "id": 839458,
+    "title": "Одни из нас",
+    "rating": 7.94,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/08c7db91-d309-41b9-84a8-ae4c3091bed6/orig",
+    "position": 148
+  },
+  {
+    "id": 1220920,
+    "title": "Истребитель демонов",
+    "rating": 8.213,
+    "year": 2019,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4483445/93a88428-d959-4c91-9b9e-52ffa4f8b034/orig",
+    "position": 147
+  },
+  {
+    "id": 5059,
+    "title": "Знакомьтесь, Джо Блэк",
+    "rating": 8.078,
+    "year": 1998,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/a7dabae7-43a1-4702-aa22-c9faaadee54d/orig",
+    "position": 147
+  },
+  {
+    "id": 5619,
+    "title": "Звёздные войны: Эпизод 3 – Месть ситхов",
+    "rating": 8.115,
+    "year": 2005,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/2720c811-4065-43cf-9fc5-bd18ee3dbbf0/orig",
+    "position": 146
+  },
+  {
+    "id": 43423,
+    "title": "Афоня",
+    "rating": 8.087,
+    "year": 1975,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/908f8e1a-0a4d-4f2b-9725-228ce96f0c62/orig",
+    "position": 145
+  },
+  {
+    "id": 485542,
+    "title": "Отбросы",
+    "rating": 8.061,
+    "year": 2009,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/364f317b-21fa-4eb3-b198-ad743f18dbd2/orig",
+    "position": 145
+  },
+  {
+    "id": 195434,
+    "title": "Старикам тут не место",
+    "rating": 7.811,
+    "year": 2007,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/fd0501f0-adaf-48fd-bad3-1216a33fc95a/orig",
+    "position": 145
+  },
+  {
+    "id": 3561,
+    "title": "Дневник памяти",
+    "rating": 8.249,
+    "year": 2004,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/c48824e7-89fc-4d6f-a55a-57a8fa05d38c/orig",
+    "position": 144
+  },
+  {
+    "id": 4402867,
+    "title": "Счастье",
+    "rating": 8.213,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/9898b051-a211-47ce-846d-728ca83c1c00/orig",
+    "position": 143
+  },
+  {
+    "id": 601564,
+    "title": "Легенда №17",
+    "rating": 7.994,
+    "year": 2012,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/a8fce9c6-ed42-42e8-9727-206a6b5fb64a/orig",
+    "position": 143
+  },
+  {
+    "id": 5267249,
+    "title": "Золотое дно",
+    "rating": 7.987,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/f0fe915e-0ed2-4ca0-9eea-e6604936e465/orig",
+    "position": 143
+  },
+  {
+    "id": 843649,
+    "title": "Мстители: Война бесконечности",
+    "rating": 8.081,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/af92d310-4ae5-4daa-b42c-5bcc380c2e6e/orig",
+    "position": 143
+  },
+  {
+    "id": 278522,
+    "title": "Хоббит: Нежданное путешествие",
+    "rating": 8.111,
+    "year": 2012,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/0e569ebd-0639-416b-92c5-2afffbd5d089/orig",
+    "position": 142
+  },
+  {
+    "id": 1007909,
+    "title": "Страйк",
+    "rating": 7.894,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/f3fb398e-265c-4177-812b-57a5e9ca5bca/orig",
+    "position": 141
+  },
+  {
+    "id": 906042,
+    "title": "Приключения Паддингтона 2",
+    "rating": 8.088,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/cd9d3979-bf12-4e73-9ebc-0ba2f1474aa4/orig",
+    "position": 141
+  },
+  {
+    "id": 63991,
+    "title": "Пираты Карибского моря: Сундук мертвеца",
+    "rating": 8.141,
+    "year": 2006,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/2f896b6f-397e-40ef-ae19-e9cb0b2d9675/orig",
+    "position": 141
+  },
+  {
+    "id": 84358,
+    "title": "Твин Пикс",
+    "rating": 8.404,
+    "year": 1990,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/ea3eb08c-4f8d-4a35-b308-174898bdeaf0/orig",
+    "position": 140
+  },
+  {
+    "id": 327,
+    "title": "Крестный отец 2",
+    "rating": 8.53,
+    "year": 1974,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/33474b2a-d670-47c8-9cbe-51291847b6d4/orig",
+    "position": 140
+  },
+  {
+    "id": 1398965,
+    "title": "Истинная красота",
+    "rating": 8.273,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/22f75234-c22e-43df-8e03-11a7eff64a4e/orig",
+    "position": 139
+  },
+  {
+    "id": 46708,
+    "title": "Москва слезам не верит",
+    "rating": 8.436,
+    "year": 1979,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/f94e36eb-2a77-422b-94f2-c599c418497c/orig",
+    "position": 139
+  },
+  {
+    "id": 4909330,
+    "title": "Капли бога",
+    "rating": 7.9,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4486362/92a4755c-82b9-4cb8-a8f0-c8356cbcaa41/orig",
+    "position": 139
+  },
+  {
+    "id": 4444756,
+    "title": "Контакт",
+    "rating": 7.988,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/6555aed0-466e-4d83-bcb0-3f0f626a49bb/orig",
+    "position": 138
+  },
+  {
+    "id": 41431,
+    "title": "Война",
+    "rating": 8.088,
+    "year": 2002,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/7a06c242-ede9-4c91-a865-6a0f0b9c66eb/orig",
+    "position": 138
+  },
+  {
+    "id": 350,
+    "title": "Славные парни",
+    "rating": 8.127,
+    "year": 1990,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/7f119fc4-7fe0-4738-9fa4-bc541d468911/orig",
+    "position": 138
+  },
+  {
+    "id": 1330171,
+    "title": "История девятихвостого лиса",
+    "rating": 8.374,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/6375dcac-bf7e-40a8-9db6-2a804abd7632/orig",
+    "position": 137
+  },
+  {
+    "id": 41442,
+    "title": "Ворошиловский стрелок",
+    "rating": 7.927,
+    "year": 1999,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/7d4aad8f-1283-4cf8-b4b9-339611e09111/orig",
+    "position": 137
+  },
+  {
+    "id": 5502,
+    "title": "Назад в будущее 2",
+    "rating": 8.316,
+    "year": 1989,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/01c1d758-900b-446a-8e0a-c76514b7afae/orig",
+    "position": 137
+  },
+  {
+    "id": 1395460,
+    "title": "Медиатор",
+    "rating": 8.08,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10900341/0b6d96bb-0d1d-410d-989e-69f2e57d715f/orig",
+    "position": 136
+  },
+  {
+    "id": 1103852,
+    "title": "Укрась прощальное утро цветами обещания",
+    "rating": 8.266,
+    "year": 2018,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/551571aa-2c50-41b2-9ffb-51878e443054/orig",
+    "position": 135
+  },
+  {
+    "id": 3797,
+    "title": "Адвокат дьявола",
+    "rating": 8.169,
+    "year": 1997,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/cd363dbc-0cd7-46d7-a771-6b865c34923e/orig",
+    "position": 135
+  },
+  {
+    "id": 1115148,
+    "title": "Анатомия сердца",
+    "rating": 8.088,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/91f4699a-704c-4bd6-92ac-8989909bcbf7/orig",
+    "position": 135
+  },
+  {
+    "id": 924290,
+    "title": "Красная королева",
+    "rating": 8.044,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/84e32b2f-d802-45bb-b791-15700e6aded4/orig",
+    "position": 135
+  },
+  {
+    "id": 5367744,
+    "title": "Высшая мера",
+    "rating": 8.027,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10809116/fd640177-acdf-4f4f-9065-e9deb2581165/orig",
+    "position": 134
+  },
+  {
+    "id": 958722,
+    "title": "Твоё имя",
+    "rating": 8.386,
+    "year": 2016,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/e849937d-99d7-418f-bbaa-0a7e7cfff385/orig",
+    "position": 134
+  },
+  {
+    "id": 1140676,
+    "title": "Позолоченный век",
+    "rating": 8.08,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10592371/c684919b-5547-4727-b68e-ded5d40b5809/orig",
+    "position": 133
+  },
+  {
+    "id": 522876,
+    "title": "Век Адалин",
+    "rating": 7.817,
+    "year": 2015,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/68440e1f-ccc7-410a-bc56-92994554b63a/orig",
+    "position": 133
+  },
+  {
+    "id": 5230828,
+    "title": "Поднятие уровня в одиночку",
+    "rating": 8.124,
+    "year": 2024,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/b2abf08a-c608-4f0d-b695-c429fd758184/orig",
+    "position": 133
+  },
+  {
+    "id": 5149270,
+    "title": "Волшебный участок",
+    "rating": 7.96,
+    "year": 2023,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/852c9ad1-f426-4892-baf5-32e4f1df6045/orig",
+    "position": 133
+  },
+  {
+    "id": 1338255,
+    "title": "Цветок зла",
+    "rating": 8.353,
+    "year": 2020,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/c692de39-0169-4c45-88b1-022fe1234db8/orig",
+    "position": 131
+  },
+  {
+    "id": 838,
+    "title": "Человек-паук",
+    "rating": 7.739,
+    "year": 2002,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/428e2842-4157-45e8-a9af-1e5245e52c37/orig",
+    "position": 131
+  },
+  {
+    "id": 958500,
+    "title": "Охотник за разумом",
+    "rating": 8.097,
+    "year": 2017,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/efba2d5f-4ca6-490e-b018-3a8b360ceaa6/orig",
+    "position": 131
+  },
+  {
+    "id": 4489825,
+    "title": "Начальник разведки",
+    "rating": 8.389,
+    "year": 2022,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/aeb29981-b624-4720-93d5-897fedda2f32/orig",
+    "position": 130
+  },
+  {
+    "id": 1350067,
+    "title": "Призраки",
+    "rating": 8.054,
+    "year": 2021,
+    "budget": 0,
+    "gross": 0,
+    "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/7e51217b-7854-4a5d-b23e-7aa790608994/orig",
+    "position": 129
+  }
+]
