@@ -2498,5 +2498,15 @@
     "gross": 0,
     "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/7e51217b-7854-4a5d-b23e-7aa790608994/orig",
     "position": 129
+  },
+  {
+    "id": 5378575,
+    "title": "Мой путь программиста",
+    "rating": 8.2,
+    "year": 2024,
+    "budget": 50000000,
+    "gross": 70000000,
+    "poster": "",
+    "position": 5
   }
 ]
