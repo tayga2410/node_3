@@ -11,14 +11,20 @@ const top250Path = path.join(__dirname, "top250.json");
 
 const fetchTop250Movies = async () => {
   try {
-    const response = await axios.get("https://api.kinopoisk.dev/v1.4/movie?page=1&limit=250&selectFields=id&selectFields=name&selectFields=poster&selectFields=top250&notNullFields=top250&sortField=rating.kp&sortType=-1&type=movie", {
+    const response = await axios.get("https://api.kinopoisk.dev/v1.4/movie?page=1&limit=250&selectFields=name&selectFields=poster&selectFields=top250&notNullFields=top250&sortField=rating.kp&sortType=-1&type=movie", {
       headers: {
         "X-API-KEY": API_KEY,
         'accept': 'application/json',
       }
     });
 
-    const movies = response.data.docs;
+    const movies = response.data.docs.map((movie, index) => ({
+      id: index + 1, 
+      name: movie.name,
+      poster: movie.poster,
+      top250: movie.top250,
+    }));
+    
     fs.writeFileSync(top250Path, JSON.stringify(movies, null, 2), "utf-8");
     console.log("Файл top250.json успешно создан!");
     return movies;
@@ -50,6 +56,16 @@ app.get("/api/films/readall", async (req, res) => {
     const sortedMovies = movies.sort((a, b) => a.position - b.position);
     return res.json(sortedMovies);
   }
+});
+
+app.get("/api/films/read", (req, res) => {
+  const { id } = req.query;
+  const movies = getMoviesFromFile();
+  const movie = movies.find(movie => movie.id === Number(id)); 
+  if (!movie) {
+    return res.status(404).json({ error: "Фильм не найден" });
+  }
+  return res.json(movie);
 });
 
 app.listen(port, () => {
